@@ -1,0 +1,4 @@
+/home/dafinci/c_sharp_projects/Namespace/obj/Debug/net8.0/Namespace.GeneratedMSBuildEditorConfig.editorconfig
+/home/dafinci/c_sharp_projects/Namespace/obj/Debug/net8.0/Namespace.AssemblyInfoInputs.cache
+/home/dafinci/c_sharp_projects/Namespace/obj/Debug/net8.0/Namespace.AssemblyInfo.cs
+/home/dafinci/c_sharp_projects/Namespace/obj/Debug/net8.0/Namespace.csproj.CoreCompileInputs.cache
