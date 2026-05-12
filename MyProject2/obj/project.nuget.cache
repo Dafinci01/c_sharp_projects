@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GoOgGFL3wfA=",
+  "dgSpecHash": "V5dGB2OkrXc=",
   "success": true,
   "projectFilePath": "/home/dafinci/c_sharp_projects/MyProject2/MyProject2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/dafinci/.nuget/packages/microsoft.netcore.app.ref/8.0.25/microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "/home/dafinci/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "/home/dafinci/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.25/microsoft.netcore.app.host.linux-x64.8.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
