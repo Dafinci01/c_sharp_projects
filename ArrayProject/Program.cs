@@ -1,4 +1,23 @@
-﻿int [] scores =  new int [5];
+﻿// local quiz app project
+/*
+A local quiz app startup needs a score tracking system. 
+The app runs a 5-question quiz, 
+collects the player's name and each answer's score 
+(entered by the player), then shows their total score,
+ average, highest score, lowest score, and whether they
+  passed (pass mark is 50% of total possible).
+
+Requirements — must use:
+
+string[] for questions (hardcode 5 questions)
+int[] for scores collected via Console.ReadLine() and int.Parse()
+for loop to collect input
+foreach loop to display results
+if/else for pass/fail
+Math for total, average, highest, lowest
+
+*/
+int [] scores =  new int [5];
 strings[] questions = {
 
 }
