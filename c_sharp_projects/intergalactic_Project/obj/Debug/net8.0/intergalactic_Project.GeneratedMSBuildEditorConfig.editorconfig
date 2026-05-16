@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = intergalactic_Project
-build_property.ProjectDir = /home/dafinci/c_sharp_projects/intergalactic_Project/
+build_property.ProjectDir = /home/dafinci2/c_sharp_projects/c_sharp_projects/intergalactic_Project/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

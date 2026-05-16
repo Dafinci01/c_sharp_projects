@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("intergalactic_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b61bf61be617649ba6b370c981d6741805ee166f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75a20bcc1a5275dcdfaeb6b10b5067c4448b3658")]
 [assembly: System.Reflection.AssemblyProductAttribute("intergalactic_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("intergalactic_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
