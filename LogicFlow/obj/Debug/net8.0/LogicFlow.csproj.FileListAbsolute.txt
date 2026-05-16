@@ -1,0 +1,14 @@
+/home/dafinci/c_sharp_projects/LogicFlow/bin/Debug/net8.0/LogicFlow
+/home/dafinci/c_sharp_projects/LogicFlow/bin/Debug/net8.0/LogicFlow.deps.json
+/home/dafinci/c_sharp_projects/LogicFlow/bin/Debug/net8.0/LogicFlow.runtimeconfig.json
+/home/dafinci/c_sharp_projects/LogicFlow/bin/Debug/net8.0/LogicFlow.dll
+/home/dafinci/c_sharp_projects/LogicFlow/bin/Debug/net8.0/LogicFlow.pdb
+/home/dafinci/c_sharp_projects/LogicFlow/obj/Debug/net8.0/LogicFlow.GeneratedMSBuildEditorConfig.editorconfig
+/home/dafinci/c_sharp_projects/LogicFlow/obj/Debug/net8.0/LogicFlow.AssemblyInfoInputs.cache
+/home/dafinci/c_sharp_projects/LogicFlow/obj/Debug/net8.0/LogicFlow.AssemblyInfo.cs
+/home/dafinci/c_sharp_projects/LogicFlow/obj/Debug/net8.0/LogicFlow.csproj.CoreCompileInputs.cache
+/home/dafinci/c_sharp_projects/LogicFlow/obj/Debug/net8.0/LogicFlow.dll
+/home/dafinci/c_sharp_projects/LogicFlow/obj/Debug/net8.0/refint/LogicFlow.dll
+/home/dafinci/c_sharp_projects/LogicFlow/obj/Debug/net8.0/LogicFlow.pdb
+/home/dafinci/c_sharp_projects/LogicFlow/obj/Debug/net8.0/LogicFlow.genruntimeconfig.cache
+/home/dafinci/c_sharp_projects/LogicFlow/obj/Debug/net8.0/ref/LogicFlow.dll

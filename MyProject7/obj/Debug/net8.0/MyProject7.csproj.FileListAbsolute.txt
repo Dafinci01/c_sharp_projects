@@ -1,0 +1,15 @@
+/home/dafinci/c_sharp_projects/MyProject7/obj/Debug/net8.0/MyProject7.GeneratedMSBuildEditorConfig.editorconfig
+/home/dafinci/c_sharp_projects/MyProject7/obj/Debug/net8.0/MyProject7.AssemblyInfoInputs.cache
+/home/dafinci/c_sharp_projects/MyProject7/obj/Debug/net8.0/MyProject7.AssemblyInfo.cs
+/home/dafinci/c_sharp_projects/MyProject7/obj/Debug/net8.0/MyProject7.csproj.CoreCompileInputs.cache
+/home/dafinci/c_sharp_projects/MyProject7/obj/Debug/net8.0/MyProject7.sourcelink.json
+/home/dafinci/c_sharp_projects/MyProject7/bin/Debug/net8.0/MyProject7
+/home/dafinci/c_sharp_projects/MyProject7/bin/Debug/net8.0/MyProject7.deps.json
+/home/dafinci/c_sharp_projects/MyProject7/bin/Debug/net8.0/MyProject7.runtimeconfig.json
+/home/dafinci/c_sharp_projects/MyProject7/bin/Debug/net8.0/MyProject7.dll
+/home/dafinci/c_sharp_projects/MyProject7/bin/Debug/net8.0/MyProject7.pdb
+/home/dafinci/c_sharp_projects/MyProject7/obj/Debug/net8.0/MyProject7.dll
+/home/dafinci/c_sharp_projects/MyProject7/obj/Debug/net8.0/refint/MyProject7.dll
+/home/dafinci/c_sharp_projects/MyProject7/obj/Debug/net8.0/MyProject7.pdb
+/home/dafinci/c_sharp_projects/MyProject7/obj/Debug/net8.0/MyProject7.genruntimeconfig.cache
+/home/dafinci/c_sharp_projects/MyProject7/obj/Debug/net8.0/ref/MyProject7.dll

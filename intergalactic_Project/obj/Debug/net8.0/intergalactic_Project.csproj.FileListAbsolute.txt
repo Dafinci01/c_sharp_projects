@@ -1,0 +1,15 @@
+/home/dafinci/c_sharp_projects/intergalactic_Project/obj/Debug/net8.0/intergalactic_Project.GeneratedMSBuildEditorConfig.editorconfig
+/home/dafinci/c_sharp_projects/intergalactic_Project/obj/Debug/net8.0/intergalactic_Project.AssemblyInfoInputs.cache
+/home/dafinci/c_sharp_projects/intergalactic_Project/obj/Debug/net8.0/intergalactic_Project.AssemblyInfo.cs
+/home/dafinci/c_sharp_projects/intergalactic_Project/obj/Debug/net8.0/intergalactic_Project.csproj.CoreCompileInputs.cache
+/home/dafinci/c_sharp_projects/intergalactic_Project/obj/Debug/net8.0/intergalactic_Project.sourcelink.json
+/home/dafinci/c_sharp_projects/intergalactic_Project/bin/Debug/net8.0/intergalactic_Project
+/home/dafinci/c_sharp_projects/intergalactic_Project/bin/Debug/net8.0/intergalactic_Project.deps.json
+/home/dafinci/c_sharp_projects/intergalactic_Project/bin/Debug/net8.0/intergalactic_Project.runtimeconfig.json
+/home/dafinci/c_sharp_projects/intergalactic_Project/bin/Debug/net8.0/intergalactic_Project.dll
+/home/dafinci/c_sharp_projects/intergalactic_Project/bin/Debug/net8.0/intergalactic_Project.pdb
+/home/dafinci/c_sharp_projects/intergalactic_Project/obj/Debug/net8.0/intergalactic_Project.dll
+/home/dafinci/c_sharp_projects/intergalactic_Project/obj/Debug/net8.0/refint/intergalactic_Project.dll
+/home/dafinci/c_sharp_projects/intergalactic_Project/obj/Debug/net8.0/intergalactic_Project.pdb
+/home/dafinci/c_sharp_projects/intergalactic_Project/obj/Debug/net8.0/intergalactic_Project.genruntimeconfig.cache
+/home/dafinci/c_sharp_projects/intergalactic_Project/obj/Debug/net8.0/ref/intergalactic_Project.dll

@@ -1,0 +1,14 @@
+/home/dafinci/c_sharp_projects/VAriablesManipulation/bin/Debug/net8.0/VAriablesManipulation
+/home/dafinci/c_sharp_projects/VAriablesManipulation/bin/Debug/net8.0/VAriablesManipulation.deps.json
+/home/dafinci/c_sharp_projects/VAriablesManipulation/bin/Debug/net8.0/VAriablesManipulation.runtimeconfig.json
+/home/dafinci/c_sharp_projects/VAriablesManipulation/bin/Debug/net8.0/VAriablesManipulation.dll
+/home/dafinci/c_sharp_projects/VAriablesManipulation/bin/Debug/net8.0/VAriablesManipulation.pdb
+/home/dafinci/c_sharp_projects/VAriablesManipulation/obj/Debug/net8.0/VAriablesManipulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/dafinci/c_sharp_projects/VAriablesManipulation/obj/Debug/net8.0/VAriablesManipulation.AssemblyInfoInputs.cache
+/home/dafinci/c_sharp_projects/VAriablesManipulation/obj/Debug/net8.0/VAriablesManipulation.AssemblyInfo.cs
+/home/dafinci/c_sharp_projects/VAriablesManipulation/obj/Debug/net8.0/VAriablesManipulation.csproj.CoreCompileInputs.cache
+/home/dafinci/c_sharp_projects/VAriablesManipulation/obj/Debug/net8.0/VAriablesManipulation.dll
+/home/dafinci/c_sharp_projects/VAriablesManipulation/obj/Debug/net8.0/refint/VAriablesManipulation.dll
+/home/dafinci/c_sharp_projects/VAriablesManipulation/obj/Debug/net8.0/VAriablesManipulation.pdb
+/home/dafinci/c_sharp_projects/VAriablesManipulation/obj/Debug/net8.0/VAriablesManipulation.genruntimeconfig.cache
+/home/dafinci/c_sharp_projects/VAriablesManipulation/obj/Debug/net8.0/ref/VAriablesManipulation.dll

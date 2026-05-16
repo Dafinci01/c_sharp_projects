@@ -1,0 +1,15 @@
+/home/dafinci/c_sharp_projects/MyProject/bin/Debug/net8.0/MyProject
+/home/dafinci/c_sharp_projects/MyProject/bin/Debug/net8.0/MyProject.deps.json
+/home/dafinci/c_sharp_projects/MyProject/bin/Debug/net8.0/MyProject.runtimeconfig.json
+/home/dafinci/c_sharp_projects/MyProject/bin/Debug/net8.0/MyProject.dll
+/home/dafinci/c_sharp_projects/MyProject/bin/Debug/net8.0/MyProject.pdb
+/home/dafinci/c_sharp_projects/MyProject/obj/Debug/net8.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/dafinci/c_sharp_projects/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfoInputs.cache
+/home/dafinci/c_sharp_projects/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfo.cs
+/home/dafinci/c_sharp_projects/MyProject/obj/Debug/net8.0/MyProject.csproj.CoreCompileInputs.cache
+/home/dafinci/c_sharp_projects/MyProject/obj/Debug/net8.0/MyProject.sourcelink.json
+/home/dafinci/c_sharp_projects/MyProject/obj/Debug/net8.0/MyProject.dll
+/home/dafinci/c_sharp_projects/MyProject/obj/Debug/net8.0/refint/MyProject.dll
+/home/dafinci/c_sharp_projects/MyProject/obj/Debug/net8.0/MyProject.pdb
+/home/dafinci/c_sharp_projects/MyProject/obj/Debug/net8.0/MyProject.genruntimeconfig.cache
+/home/dafinci/c_sharp_projects/MyProject/obj/Debug/net8.0/ref/MyProject.dll
